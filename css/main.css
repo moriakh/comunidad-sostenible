@@ -31,3 +31,10 @@
     height: 35rem;
 }
 
+.img-circle{
+    border-radius: 50%;
+}
+.rss-logo{
+    width: 5rem;
+    height: 3.5rem;    
+}
